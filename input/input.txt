@@ -1,0 +1,26 @@
+P|Elof|Sundin
+T|073-101801|018-101801
+A|S:t Johannesgatan 16|Uppsala|75330
+F|Hans|1967
+A|Frodegatan 13B|Uppsala|75325
+F|Anna|1969
+T|073-101802|08-101802
+P|Boris|Johnson
+A|10 Downing Street|London
+P|Victor|Persson
+T|076-3056692|045586400
+A|Polhemsgatan 21C|Karlskrona|37156
+F|Elna|2000
+T|07620003808
+F|Zigge|1996
+A|Bokvägen 10|Tingsryd
+P|Musse|Pigg
+A|Disneygatan|Orlando
+F|Mimmi|1950
+A|Disneygatan 2|Los Angeles
+P|Stefan|Lövfen
+T|112
+A|Stockholmsgatan 10
+P|Kalle
+F|Kajsa
+T|070-1337000
