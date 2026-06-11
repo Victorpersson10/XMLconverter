@@ -93,7 +93,7 @@ function writeXMLfile(persons)
     }
 
     try {
-    fs.writeFileSync('output/output.xml', doc.end({ pretty: true }));
+    fs.writeFileSync('output.xml', doc.end({ pretty: true }));
     // file written successfully
     } catch (err) {
     console.error(err);
